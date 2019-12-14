@@ -26,4 +26,6 @@ This is a simple and responsive website for book store
 
 **Thank you for your interest! All types of contributions are welcome.**
 
+**Special Thanks to ```DailyTution``` which is help to this project**
+
 ```Happy Coding!```
